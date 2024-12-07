@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/amaralazizy/ECE461group32-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/mohammed-alaa40123/ECE461-group32
